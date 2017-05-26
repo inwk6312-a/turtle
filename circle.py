@@ -4,4 +4,6 @@ def draw_circle():
 def draw_rect():
   print "rec"
 
+def draw_polygon():
+
 
